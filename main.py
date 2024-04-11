@@ -7,7 +7,7 @@ def encoder(password):
         result += char
     return result
 
-def dwcwdwr(password):
+def decoder(password):
     result = ''
     for char in password:
         char = int(char)
