@@ -36,4 +36,4 @@ while True:
     elif choice == 3:
         exit()
     else:
-        print("")
+        print("thats not 1-3")
